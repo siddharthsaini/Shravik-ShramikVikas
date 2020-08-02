@@ -1,6 +1,6 @@
 <h1 align="center"> Shravik: Shramik Vikas </h1> <br>
 Shravik (short for Shramik Vikas) is a Geolocation based Multilingual matchmaking social platform for Employers and blue-collar Migrant Workers affected by the Covid-19 Pandemic.
-<p></p>
+<a></a>
 <p align="center">
   <a>
     <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/1.png" width="240">
