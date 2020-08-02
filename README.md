@@ -1,33 +1,32 @@
-# Shravik-ShramikVikas
+<h1 align="center"> Shravik: Shramik Vikas </h1> <br>
 Shravik (short for Shramik Vikas) is a Geolocation based Multilingual matchmaking social platform for Employers and blue-collar Migrant Workers affected by the Covid-19 Pandemic.
 
-<h1 align="center"> Shravik: Shramik Vikas </h1> <br>
 <p align="center">
   <a>
-    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/1.jpg" width="240">
+    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/1.png" width="240">
   </a>
   <a>
-    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/2.jpg" width="240">
+    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/2.png" width="240">
   </a>
   <a>
-    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/3.jpg" width="240">
+    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/3.png" width="240">
   </a>
   <a>
-    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/4.jpg" width="240">
+    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/4.png" width="240">
   </a>
 </p>
 <p align="center">
   <a>
-    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/5.jpg" width="240">
+    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/5.png" width="240">
   </a>
   <a>
-    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/6.jpg" width="240">
+    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/6.png" width="240">
   </a>
   <a>
-    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/7.jpg" width="240">
+    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/7.png" width="240">
   </a>
   <a>
-    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/8.jpg" width="240">
+    <img alt="Shravik-ShramikVikas" title="Shravik-ShramikVikas" src="https://raw.githubusercontent.com/siddharthsaini/Shravik-ShramikVikas/master/Images/8.png" width="240">
   </a>
 </p>
 
