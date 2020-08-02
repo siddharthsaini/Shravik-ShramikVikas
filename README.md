@@ -47,5 +47,3 @@ The employers can register and search for workers based on their skill requireme
 <a href="https://www.linkedin.com/in/sidxharth"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
 
 Hit me up -> www.siddharthsaini.tech
-
-Previous Version: https://github.com/sidxharth/Chinese-Apps-Remover
