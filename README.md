@@ -39,6 +39,8 @@ Users can be searched with easy location based filters, their skill sets or skil
 
 Distance calculation between registered users is also available to help them decide in hiring or working, near the better.
 
+Link to Play Store: https://play.google.com/store/apps/details?id=tech.siddharthsaini.shravik&hl=en_IN
+
 ## Contibutions are most welcome!
 
 ## Questions?🤔
