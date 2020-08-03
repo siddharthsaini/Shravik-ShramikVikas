@@ -31,15 +31,13 @@ Shravik (short for Shramik Vikas) is a Geolocation based Multilingual matchmakin
 </p>
 
 ## About
-SHRAVIK: SHRAMIK VIKAS APP is a platform for Migrant Workers and Employers to search, contact and help each other during these hard times. 
+Shravik is a Geolocation based Multilingual social platform for Employers and blue-collar Migrant Workers affected by the Covid 19 Pandemic built with the Flutter Framework and Dart using Firebase as database. 
 
-People desperately looking to sustain their livelihood by getting jobs closer to their homes and those who want to employ Workers to sustain their business should Register.
+It acts as a matchmaker between workers desperately looking for jobs closer to their homes and potential employers who want to hire them to sustain their business as their previous employees have either migrated or quit. 
 
-Users can be searched with easy filters and their location and distance is displayed on the map.
+Users can be searched with easy location based filters, their skill sets or skill requirements, contacted with their registered mobile number (or email) and their location is displayed on the map. 
 
-Migrant Workers' data will be provided to government agencies (if necessary) to have records of migration and to improve their employment schemes.
-
-The employers can register and search for workers based on their skill requirements in a particular location, by name, by phone number or by email.
+Distance calculation between registered users is also available to help them decide in hiring or working, near the better.
 
 ## Contibutions are most welcome!
 
