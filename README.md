@@ -1,7 +1,6 @@
 <h1 align="center"> Shravik: Shramik Vikas </h1> <br>
-  <p align="center"><a href="https://play.google.com/store/apps/details?id=tech.siddharthsaini.shravik"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"></a></p>
+  <p align="center"><a href="https://play.google.com/store/apps/details?id=tech.siddharthsaini.shravik"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="250"></a></p>
 Shravik (short for Shramik Vikas) is a Geolocation based Multilingual matchmaking social platform for Employers and blue-collar Migrant Workers affected by the Covid-19 Pandemic.
-<p><height="50"></p>
 
 <p align="center">
   <a>
